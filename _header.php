@@ -21,11 +21,13 @@
         <!-- Using Open Sans: http://www.google.com/fonts#UsePlace:use/Collection:Open+Sans -->
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
 
-        <!-- jQuery is commented out. Uncomment if you plan on using it -->
+        <!-- jQuery and AngularJS are commented out. Uncomment if you plan on using it -->
         <!-- <script type="text/javascript" src="assets/js/jquery-2.0.3.min.js"></script> -->
+        <!-- <script type="text/javascript" src="assets/js/angular.min.js"></script> -->
         
         <?php if ($in_dev_mode) { ?>
-        <link rel="stylesheet/less" type="text/css" href="assets/styles/<?php echo $cssprefix; ?>.bootstrap.less" />
+        <link rel="stylesheet/less" type="text/css" href="assets/styles/<?php echo $cssprefix; ?>.bootstrap-3.less" />
+
         <script type="text/javascript" src="assets/js/less-1.4.1.min.js"></script>
         
         <script type="text/javascript">
