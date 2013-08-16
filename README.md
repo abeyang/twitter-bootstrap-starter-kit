@@ -7,7 +7,7 @@ Starter Kit that combines the best-in-class frameworks into repo
 
 Starter Kit includes:
 
-+ [Bootstrap 2.3.2](http://twitter.github.io/bootstrap/)
++ [Bootstrap 3.0.0 RC2](http://twitter.github.io/bootstrap/)
 + [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 + [Open Sans](http://www.google.com/fonts#UsePlace:use/Collection:Open+Sans) // free font hosted by Google
 + [less.js](http://lesscss.org/) // for development purposes
